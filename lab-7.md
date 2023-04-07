@@ -14,18 +14,18 @@ own master usability checklist.
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1. https://www.nngroup.com/articles/ten-usability-heuristics/
+2. https://www.heurio.co/nielsens-10-usability-heuristics 
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Navigation: Is the website or app easy to navigate? Are menus and buttons intuitive and easy to understand?
+2. Consistency: Is the design consistent throughout the website or app? Are colors, fonts, and styles consistent across all pages?
+3. Error prevention: Are there any potential errors that could occur during the user's journey? Are there clear error messages and instructions on how to correct errors?
+4. Clear labeling: Are labels clear and easy to understand? Are terms used consistently throughout the website or app?
+5. Readability: Is the text easy to read? Is there enough contrast between the text and the background?
+6. Accessibility: Is the website or app accessible to all users, including those with disabilities? Does it meet WCAG 2.1 standards?
+7. Load time: Does the website or app load quickly? Are images optimized and files compressed to improve loading speed?
+8. Mobile responsiveness: Is the website or app optimized for mobile devices? Does it have a responsive design that adapts to different screen sizes?
+9. User feedback: Is there a way for users to provide feedback on their experience with the website or app? Are feedback forms or surveys easy to find and use?
+10. User testing: Has the website or app been tested with real users to ensure its usability? Was feedback incorporated into the design to improve the user experience?
